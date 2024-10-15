@@ -70,6 +70,7 @@ section.imagem#img01{
     color: white;
     background-image: url('imagens/background001.jpg');
     background-position: center center;
+    background-attachment: fixed;
     
 }
 section.imagem#img02{
@@ -77,6 +78,7 @@ section.imagem#img02{
     color: white;
     background-image: url('imagens/background002.jpg');
     background-position: center center;
+    background-attachment: fixed;
     
 }
 section.imagem > p{
