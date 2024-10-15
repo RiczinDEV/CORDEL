@@ -67,6 +67,7 @@ section.normal{
 
 section.imagem#img01{
     background-color: rgb(43, 43, 43);
+    min-width: 200px;
     color: white;
     background-image: url('imagens/background001.jpg');
     background-position: center center;
